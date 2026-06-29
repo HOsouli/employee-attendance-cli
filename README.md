@@ -1,5 +1,4 @@
-````md
-# 🚀 Employee Attendance Management System
+# Employee Attendance Management System
 
 A simple employee attendance management system built with Python.
 
@@ -7,7 +6,7 @@ This project allows registering employees, storing employee information in CSV f
 
 ---
 
-## ✨ Features
+## Features
 
 - 👤 Register new employees
 - 💾 Store employee data in CSV
@@ -56,7 +55,7 @@ python main.py
 
 ---
 
-## 🖥️ Example Workflow
+## Example Workflow
 
 ### Register Employee
 
@@ -106,4 +105,4 @@ Hossein
 ---
 
 ⭐ CLI version — foundation for future Django + PostgreSQL attendance system.
-````
+:::
