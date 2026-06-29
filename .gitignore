@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+
+# Virtual Environment
+.venv/
+venv/
+
+# CSV database
+database/*.csv
+
+# Personal notes
+پروژه ساعت زنی پرسنل.txt
